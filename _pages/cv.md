@@ -13,9 +13,9 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014 -->
-* B.S. in Engineering, Yonsei University, March 2020 - February (Expected)
-  * **GPA:** 3.67/4.3
-  * **Class Rank:** 52/177
+* B.S. in Engineering, Yonsei University, March 2020 - February
+  * **GPA:** 3.64/4.3
+  * **Class Rank:** 42/88
   * **Coursework:**
     - **Mathematics:** Algorithm Analysis
     - **Basic CS:** Data Structures, Internet Programming, Software Engineering
@@ -48,9 +48,6 @@ Work experience
 
 Projects
 ======
- * **Dormant Ratio Minimization for Model-Based RL (on-going)**
-   * Course project for **Software Capstone Design(2)**
-   * Tools Used: Python, Pytorch
   
 
 Skills

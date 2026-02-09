@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "SangHyeon Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraudate student of Yonsei university"
-  location         : "50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Republic of Korea"
-  employer         : "Yonsei University / RLLAB"
+  bio              : "Graduated from Yonsei university"
+  location         : # "50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Republic of Korea"
+  employer         : # "Yonsei University / RLLAB"
   uri              : # URL
   email            : "ksang9609@yonsei.ac.kr" 
 
